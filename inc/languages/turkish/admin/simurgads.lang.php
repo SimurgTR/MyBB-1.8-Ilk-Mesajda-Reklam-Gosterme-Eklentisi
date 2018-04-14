@@ -4,7 +4,7 @@ MyBB 1.8 İlk Mesajda Reklam Gösterme Eklentisi Dil Dosyası v1.0
 Eklenti Yapımcısı: Hüseyin KÖRBALTA (Simurg)
 Website: https://huseyinkorbalta.com - https://mybb.com.tr
 Güncelleme Tarihi: 14.04.2018
-Github: 
+Github: https://github.com/SimurgTR/MyBB-1.8-Ilk-Mesajda-Reklam-Gosterme-Eklentisi
 */
 
 // Eklenti Bilgileri
