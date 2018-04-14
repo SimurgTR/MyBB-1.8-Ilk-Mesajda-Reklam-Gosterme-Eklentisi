@@ -1,7 +1,7 @@
 # MyBB 1.8 İlk Mesajda Reklam Gösterme Eklentisi
 MyBB forumunuzda açtığınız konuların ilk mesajına reklam alanları eklemenizi sağlayan bir eklenti.
 
-#Eklenti Kurulumu 
+# Eklenti Kurulumu 
 
 Eklenti dosyalarını Clone or Download adlı yeşil butona basarak indiriniz. Daha sonra indirdiğiniz dosyaları masaüstüne çıkartın ve oluşan klasörün içerisinde ki *inc* dosyasını sitenizin ana dizinine/root bölümüne FTP programı yardımıyla gönderin.
 
